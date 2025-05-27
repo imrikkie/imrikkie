@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hello World!, I'm Ritik Pathak, a Data Science Enthusiast 👋🏼:
-Currently working on smart expense classification and budget planning using ML<br> Looking to collaborate on data-driven projects with real-world impact<br>Looking for help with model optimization and deployment<br>Currently learning advanced ML techniques and data visualization<br>Ask me about data wrangling, EDA, and insight generation<br> Built a college assistant app that scrapes real-time info and compares food prices.
+👨🏼‍🎓 Pursuing B.tech from NIT Raipur<br> Looking to collaborate on data-driven projects with real-world impact<br>Looking for help with model optimization and deployment<br>Currently learning advanced ML techniques and data visualization<br>Ask me about data wrangling, EDA, and insight generation<br> Built a college assistant app that scrapes real-time info and provides best assistance.
 
 
 ## 🌐 Socials:
